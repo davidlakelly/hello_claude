@@ -1,0 +1,11 @@
+
+
+textarea {
+  resize: vertical;
+  min-height: 30vh;
+}
+
+
+* {
+  margin: 0.5% !important;
+}
